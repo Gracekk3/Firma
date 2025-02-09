@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XYZ STAV s.r.o.</title>
+    <link rel="stylesheet" href="firma.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <img src="https://stavebni-firma-kucera.cz/wp-content/uploads/2021/04/logo-Stavebni-prace.jpg" alt="Logo XYZ STAV" class="logo">
+            <h1>XYZ STAV s.r.o.</h1>
+            <nav>
+                <ul>
+                    <li><a href="#about">O nás</a></li>
+                    <li><a href="#services">Služby</a></li>
+                    <li><a href="#projects">Reference</a></li>
+                    <li><a href="#contact">Kontakt</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    
+    <main>
+        <section id="about" class="section">
+            <div class="container">
+                <h2>O nás</h2>
+                <p>Jsme stavební firma specializující se na stavby na klíč, rekonstrukce historických budov a vodohospodářské stavby.</p>
+            </div>
+        </section>
+        
+        <section id="services" class="section bg-light">
+            <div class="container">
+                <h2>Naše služby</h2>
+                <ul class="services-list">
+                    <li>Stavby na klíč – od návrhu po realizaci</li>
+                    <li>Rekonstrukce historických budov</li>
+                    <li>Sanace zdiva a opravy fasád</li>
+                    <li>Opravy krovů a střech</li>
+                    <li>Rekonstrukce bytů a interiérů</li>
+                    <li>Vodohospodářské stavby</li>
+                </ul>
+            </div>
+        </section>
+        
+        <section id="projects" class="section">
+            <div class="container">
+                <h2>Reference</h2>
+                <p>V minulosti jsme realizovali například:</p>
+                <ul class="projects-list">
+                    <li>Rekonstrukce MŠ XYZ v Praze</li>
+                    <li>Přestavba staré celnice na hotel</li>
+                    <li>Rekonstrukce historické fasády RD v Liberci</li>
+                    <li>Rekonstrukce učeben a toalet ZŠ v Plzni</li>
+                </ul>
+            </div>
+        </section>
+        
+        <section id="contact" class="section bg-light">
+            <div class="container">
+                <h2>Kontakt</h2>
+                <ul class="contact-info">
+                    <li><strong>Email:</strong> info@xyzstav.cz</li>
+                    <li><strong>Telefon:</strong> +420 123 456 789</li>
+                    <li><strong>Web:</strong> www.xyzstav.cz</li>
+                    <li><strong>FB:</strong> facebook.com/xyzstav</li>
+                    <li><strong>IG:</strong> instagram.com/xyzstav</li>
+                </ul>
+            </div>
+        </section>
+    </main>
+    
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 XYZ STAV s.r.o. Všechna práva vyhrazena.</p>
+        </div>
+    </footer>
+</body>
+</html>
